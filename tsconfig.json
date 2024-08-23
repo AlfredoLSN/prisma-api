@@ -25,5 +25,9 @@
     "build",
     "dist",
     ".docker"
-  ]
+  ],
+
+  "watchOptions": {
+    "watchFile": "fixedPollingInterval"
+  }
 }
